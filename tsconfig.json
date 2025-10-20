@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",
+    "lib": ["ES2015", "DOM", "DOM.Iterable"],
+    "jsx": "react-jsx",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "strict": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitAny": true,
+    "isolatedModules": true
+  },
+  "include": [
+    " react-hooks/src", " react-test/src", " fs-effector/src", " react-form/src", " react-auth/src", " react-redux/src", " react-router/src", " react-style/src", "**/*.ts",
+    "**/*.tsx"]
+}

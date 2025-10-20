@@ -1,0 +1,583 @@
+{
+  "posts": [
+    {
+      "userId": 4,
+      "id": 39,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcu-Twbtg4rQOclWpEV3vSa0ItII19Y_xH5g&usqp=CAU",
+      "title": "Закат в горах Алтая",
+      "body": "Закат в горах Алтая. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 3
+    },
+    {
+      "userId": 5,
+      "id": 42,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRalri-3Ea8ea_mw1uYrzNegC9SKrwuuQ65aw&usqp=CAU",
+      "title": "Берег Балтийского моря",
+      "body": "Берег Балтийского моря. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 8
+    },
+    {
+      "userId": 5,
+      "id": 43,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_et0A0XA9MZCUWtdBvIXDsNkpHiiKJ0vMhw&usqp=CAU",
+      "title": "Осенний лес в Карелии",
+      "body": "Осенний лес в Карелии. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 4
+    },
+    {
+      "userId": 5,
+      "id": 44,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQscgoQA1zuJ9yZQarfdnZV54vFz4n5-q3C-w&usqp=CAU",
+      "title": "Утро в Санкт-Петербурге",
+      "body": "Утро в Санкт-Петербурге. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 5
+    },
+    {
+      "userId": 5,
+      "id": 45,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvuJscZSjVFgNA_uSRpzrR-_xBe-ryNLz_UA&usqp=CAU",
+      "title": "Прогулка по Парижу",
+      "body": "Прогулка по Парижу. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 1
+    },
+    {
+      "userId": 5,
+      "id": 46,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Zi5gPqpNiyHrIeFfjI5X9AoxEIcx2PmBBQ&usqp=CAU",
+      "title": "Горное озеро в Швейцарии",
+      "body": "Горное озеро в Швейцарии. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 3
+    },
+    {
+      "userId": 5,
+      "id": 47,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7WElHAmIDS6qiWr_Yhesz9f6BFTyc4O7x5g&usqp=CAU",
+      "title": "Ночной Сеул",
+      "body": "Ночной Сеул. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 8
+    },
+    {
+      "userId": 5,
+      "id": 48,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKycM1LUWLww-0z0e_Osvv5UQiP2kuXnlKhw&usqp=CAU",
+      "title": "Пляжи Бали",
+      "body": "Пляжи Бали. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 3
+    },
+    {
+      "userId": 5,
+      "id": 49,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6mdOxwcQjVi7BdxemNL7uGvWB29jaXiwpeQ&usqp=CAU",
+      "title": "Долина Йосемити",
+      "body": "Долина Йосемити. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 4
+    },
+    {
+      "userId": 5,
+      "id": 50,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQrDX_IdCBz-RbvzfDb9u44TDou6OkDs8YTg&usqp=CAU",
+      "title": "Эйфелева башня в огнях",
+      "body": "Эйфелева башня в огнях. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 9
+    },
+    {
+      "userId": 6,
+      "id": 51,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7L_FOiTxo_5ALOITMqdHBrm3GjrN4EH5o4w&usqp=CAU",
+      "title": "Вид на Гранд-Каньон",
+      "body": "Вид на Гранд-Каньон. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 10
+    },
+    {
+      "userId": 6,
+      "id": 52,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgE9p-1O_liQ4dMJ1P-DygwZ0pEA5MfYVZog&usqp=CAU",
+      "title": "Венеция на закате",
+      "body": "Венеция на закате. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 6
+    },
+    {
+      "userId": 6,
+      "id": 53,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSywwHBuUq1majyu5oXPIK9uA-6cAC9iwCxmw&usqp=CAU",
+      "title": "Горы Кавказа летом",
+      "body": "Горы Кавказа летом. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 8
+    },
+    {
+      "userId": 6,
+      "id": 54,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvFTHzz9AYCFGtID5ADpdDtLHRXjgpnG-PYA&usqp=CAU",
+      "title": "Небоскрёбы Дубая",
+      "body": "Небоскрёбы Дубая. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 6
+    },
+    {
+      "userId": 6,
+      "id": 55,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR9o37egfx9q4ZblsObi-3u5tzG16T4SqvDw&usqp=CAU",
+      "title": "Пустыня Сахара",
+      "body": "Пустыня Сахара. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 1
+    },
+    {
+      "userId": 6,
+      "id": 56,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-Cf93aIELIv_a-2MFsXBOXUR8M1nNq6Txg&usqp=CAU",
+      "title": "Водопад Игуасу",
+      "body": "Водопад Игуасу. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 1
+    },
+    {
+      "userId": 6,
+      "id": 57,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbVmLv-_VSlEuZZ9uAxlgJGaS6_HNgqawWbg&usqp=CAU",
+      "title": "Улицы Токио вечером",
+      "body": "Улицы Токио вечером. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 5
+    },
+    {
+      "userId": 6,
+      "id": 58,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgVC7MzLBGe896FWNeQotYRKjsXoCvso2nLA&usqp=CAU",
+      "title": "Озеро Байкал",
+      "body": "Озеро Байкал. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 10
+    },
+    {
+      "userId": 6,
+      "id": 59,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAurqYTQFldTtNY285IElKaVatYbPNsbUZew&usqp=CAU",
+      "title": "Лавандовые поля Прованса",
+      "body": "Лавандовые поля Прованса. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 9
+    },
+    {
+      "userId": 6,
+      "id": 60,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6U3OcMQV_zHXTpQDzG_dg5JiTU6_rVGEKSg&usqp=CAU",
+      "title": "Стамбул: Голубая мечеть",
+      "body": "Стамбул: Голубая мечеть. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 5
+    },
+    {
+      "userId": 7,
+      "id": 61,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMzH1xSlnuJ7rdGh5Q1a0XrCfRp3FpB7_LeA&usqp=CAU",
+      "title": "Амстердам и каналы",
+      "body": "Амстердам и каналы. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 3
+    },
+    {
+      "userId": 7,
+      "id": 62,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDuKnvACr0raD8eWDrm8l58KfI0Qf7R6WW4Q&usqp=CAU",
+      "title": "Закат на Мальдивах",
+      "body": "Закат на Мальдивах. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 7
+    },
+    {
+      "userId": 7,
+      "id": 63,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8p-hInKuF9VwVL9jq8JoeiNAYaHVShtNX1g&usqp=CAU",
+      "title": "Сафари в Кении",
+      "body": "Сафари в Кении. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 5
+    },
+    {
+      "userId": 7,
+      "id": 64,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPSRLkU2H2-qObWqe2PMW6QFw9nD-2fTkNaw&usqp=CAU",
+      "title": "Исландия: северное сияние",
+      "body": "Исландия: северное сияние. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 3
+    },
+    {
+      "userId": 7,
+      "id": 65,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw1qjflnOZDFW_6bQWhgP6sGkI9koQjKh6lQ&usqp=CAU",
+      "title": "Мост Золотые Ворота",
+      "body": "Мост Золотые Ворота. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 2
+    },
+    {
+      "userId": 7,
+      "id": 66,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOUvSbqqqOe5OfeLrR6uJsLkExE1zXY8Eug&usqp=CAU",
+      "title": "Сиднейская опера",
+      "body": "Сиднейская опера. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 5
+    },
+    {
+      "userId": 7,
+      "id": 67,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtnFVh3arjFnzhe6CO8ZNgr45mqCKsLP_aDw&usqp=CAU",
+      "title": "Лиссабонские улочки",
+      "body": "Лиссабонские улочки. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 3
+    },
+    {
+      "userId": 7,
+      "id": 68,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsw6JOUamOh2Jn2mfgg0q4xeDOwCRDqdZ3cw&usqp=CAU",
+      "title": "Пражский град",
+      "body": "Пражский град. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 8
+    },
+    {
+      "userId": 7,
+      "id": 69,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5wD3CHyGj8dHtTV_0RtBCtmGn-OUDR1FkuQ&usqp=CAU",
+      "title": "Берлинская стена",
+      "body": "Берлинская стена. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 2
+    },
+    {
+      "userId": 7,
+      "id": 70,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRELvjOtAabbGDh9f40jlAh-52FJT3n4KhyZw&usqp=CAU",
+      "title": "Фьорды Норвегии",
+      "body": "Фьорды Норвегии. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 3
+    },
+    {
+      "userId": 8,
+      "id": 71,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL3e2zVmBKN7uaBxpaptnW_oEiNe_Rq24MnA&usqp=CAU",
+      "title": "Римский Колизей",
+      "body": "Римский Колизей. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 9
+    },
+    {
+      "userId": 8,
+      "id": 72,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEtTUKgIAzhjPZQgYqDduqrWrt8nlNJLmvQw&usqp=CAU",
+      "title": "Лондонский Тауэр",
+      "body": "Лондонский Тауэр. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 2
+    },
+    {
+      "userId": 8,
+      "id": 73,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLm7ZGBB86e9fomWFvqZZk_50RKHnRiIYMBA&usqp=CAU",
+      "title": "Гаванна, Куба",
+      "body": "Гаванна, Куба. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 2
+    },
+    {
+      "userId": 8,
+      "id": 74,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSLp27Xc76m33IjizbOtgs2eGcpcX5s7DerA&usqp=CAU",
+      "title": "Мумбаи вечером",
+      "body": "Мумбаи вечером. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 3
+    },
+    {
+      "userId": 8,
+      "id": 75,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa39MDTLdy7K1Cw6pI_t17Jfs1zNyidkSyVA&usqp=CAU",
+      "title": "Гонконг ночью",
+      "body": "Гонконг ночью. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 8
+    },
+    {
+      "userId": 8,
+      "id": 76,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS120npi0KM1tIUtj1F03reZq9CmkmI6YV6ng&usqp=CAU",
+      "title": "Мачу-Пикчу в облаках",
+      "body": "Мачу-Пикчу в облаках. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 5
+    },
+    {
+      "userId": 8,
+      "id": 77,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrh8SvsnT8U9LTjj5OT5bpMMazt5CXI2sWUw&usqp=CAU",
+      "title": "Миланская галерея",
+      "body": "Миланская галерея. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 5
+    },
+    {
+      "userId": 8,
+      "id": 78,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnMD0jDFOmRYFrGdxiwBnC-_z36c_5G1cENw&usqp=CAU",
+      "title": "Вид на Афины",
+      "body": "Вид на Афины. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 7
+    },
+    {
+      "userId": 8,
+      "id": 79,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuWiuaFJZFcALDs0MbkM4bjU1NKc4mmGsZmg&usqp=CAU",
+      "title": "Вечер в Нью-Йорке",
+      "body": "Вечер в Нью-Йорке. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 9
+    },
+    {
+      "userId": 8,
+      "id": 80,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWI2uHTMj-PXdFki7pHACTo1jLIbT6G7tRRA&usqp=CAU",
+      "title": "Великая китайская стена",
+      "body": "Великая китайская стена. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 1
+    },
+    {
+      "userId": 9,
+      "id": 81,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyV4JQj0_DRAe0zPWPkYXrd_uHVj61yd8p9w&usqp=CAU",
+      "title": "Киото весной",
+      "body": "Киото весной. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 6
+    },
+    {
+      "userId": 9,
+      "id": 82,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQRPA0jfodn0xM5pEJJEQp7VKUErE3g2ZYiw&usqp=CAU",
+      "title": "Сиднейский пляж Бонди",
+      "body": "Сиднейский пляж Бонди. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 6
+    },
+    {
+      "userId": 9,
+      "id": 83,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfUNRlRLdGl3DRIzVwSPPc9KupgikkK8fYRA&usqp=CAU",
+      "title": "Тадж-Махал",
+      "body": "Тадж-Махал. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 2
+    },
+    {
+      "userId": 9,
+      "id": 84,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL315_BNREyfJ1hYfK6AiEIpNr4AkgHE9EsQ&usqp=CAU",
+      "title": "Пирамиды Египта",
+      "body": "Пирамиды Египта. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 1
+    },
+    {
+      "userId": 9,
+      "id": 85,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZQOheSICBc4GeLhJPuIMx-0Sypbv_85vHAg&usqp=CAU",
+      "title": "Ниагарский водопад",
+      "body": "Ниагарский водопад. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 3
+    },
+    {
+      "userId": 9,
+      "id": 86,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKnzkIWt6ZclPfnveHG9dQRwVca4Zjin9Meg&usqp=CAU",
+      "title": "Торонто вечером",
+      "body": "Торонто вечером. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 2
+    },
+    {
+      "userId": 9,
+      "id": 87,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSofNjAwrrrF3sOQszW9RxwuETehXFpK9SvQ&usqp=CAU",
+      "title": "Монреальские улочки",
+      "body": "Монреальские улочки. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 10
+    },
+    {
+      "userId": 9,
+      "id": 88,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWcX-MwJyyNl844IeZXVloi6-Y0MHhJorVnA&usqp=CAU",
+      "title": "Сингапур Марина-Бей",
+      "body": "Сингапур Марина-Бей. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 2
+    },
+    {
+      "userId": 9,
+      "id": 89,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSNaZ5Bog2wyS8pKHtfc6k1l5t947-zurhgQ&usqp=CAU",
+      "title": "Куала-Лумпур: Петронас",
+      "body": "Куала-Лумпур: Петронас. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 8
+    },
+    {
+      "userId": 9,
+      "id": 90,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeSKxh0Qz3s_24S6rMiFl2NZ5PvEWo1MrcRg&usqp=CAU",
+      "title": "Дубровник",
+      "body": "Дубровник. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 6
+    },
+    {
+      "userId": 10,
+      "id": 91,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiT_9oiEKgT7SuTkKdb2e25yocMf4S_eVRdA&usqp=CAU",
+      "title": "Вулкан Этна",
+      "body": "Вулкан Этна. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 3
+    },
+    {
+      "userId": 10,
+      "id": 92,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu8c7hSo1o9jUQenksnwa-CQulkd4b7I5kTw&usqp=CAU",
+      "title": "Хельсинки зимой",
+      "body": "Хельсинки зимой. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 6
+    },
+    {
+      "userId": 10,
+      "id": 93,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVzyvnkrhyq8or22PxAJBoilhRGq8UDcb-qw&usqp=CAU",
+      "title": "Женева и Альпы",
+      "body": "Женева и Альпы. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 4
+    },
+    {
+      "userId": 10,
+      "id": 94,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSALg1B12AE4n11JnXARPcQIdTMDfn5Lne9IA&usqp=CAU",
+      "title": "Барселона: Саграда Фамилия",
+      "body": "Барселона: Саграда Фамилия. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 4
+    },
+    {
+      "userId": 10,
+      "id": 95,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTurpQHqcZMn3lcXSLoFunBfxXqjtPKtaaTiw&usqp=CAU",
+      "title": "Мадридский дворец",
+      "body": "Мадридский дворец. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 4
+    },
+    {
+      "userId": 10,
+      "id": 96,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDmXF4dx8m4Lk3ofOpKM_epZSHZ1SRBj2Upw&usqp=CAU",
+      "title": "Флоренция и Дуомо",
+      "body": "Флоренция и Дуомо. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 3
+    },
+    {
+      "userId": 10,
+      "id": 97,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgU1z9G8AXSoXzMSqJm_eVYF_XTkXU5Bkd3w&usqp=CAU",
+      "title": "Стокгольм",
+      "body": "Стокгольм. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 7
+    },
+    {
+      "userId": 10,
+      "id": 98,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr9FUFWmrlU0BImMe1oC1rTpb31szWbrxPsw&usqp=CAU",
+      "title": "Копенгаген и Нюхавн",
+      "body": "Копенгаген и Нюхавн. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 1
+    },
+    {
+      "userId": 10,
+      "id": 99,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEMGr6zcAXRsBBCN9nqsH_MGnwxFvGP3XmmA&usqp=CAU",
+      "title": "Брюгге",
+      "body": "Брюгге. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "rate": 4
+    },
+    {
+      "id": 94,
+      "title": "Зальцбург",
+      "body": "Зальцбург. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQupIVTg0_CkA3XfQzBAcmAI4fDIsrvq0lN9w&usqp=CAU",
+      "rate": 2
+    },
+    {
+      "id": 95,
+      "title": "Люксембург",
+      "body": "Люксембург. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2zHEBqO-bkrPjz4IhjGWRP6gC8we0eOYi2A&usqp=CAU",
+      "rate": 6
+    },
+    {
+      "id": 96,
+      "title": "Вена: Шёнбрунн",
+      "body": "Вена: Шёнбрунн. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqmOWNjnuFZ5vOCxSWntIc-CjfPmp2YhIOgQ&usqp=CAU",
+      "rate": 4
+    },
+    {
+      "id": 97,
+      "title": "Прага Карлов мост",
+      "body": "Прага Карлов мост. Популярное место для путешествий и ярких фотографий. Отлично подходит для отдыха и новых впечатлений.",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk1CfddXBlecCznNvhQB5jBGkhQPZTIIxjUQ&usqp=CAU",
+      "rate": 2
+    },
+    {
+      "id": 100,
+      "title": "Баган, Мьянма",
+      "body": "Баган (ранее Паган) — древний город и объект Всемирного наследия ЮНЕСКО в регионе Мандалай в Мьянме.",
+      "url": "https://cameralabs.org/media/camera/aprel/23aprel/23_b8364b83b23042a27ccc616ab2ea502f.jpg",
+      "rate": 9
+    },
+    {
+      "id": 101,
+      "title": "Водопады Игуасу",
+      "body": "Игуасу — это каскад из 275 водопадов на одноимённой реке сразу в двух странах: Бразилии и Аргентине, одна из главных достопримечательностей Южной Америки. Водопады находятся на территории национального парка, расположенного тоже в обеих странах.",
+      "url": "https://avatars.mds.yandex.net/get-vertis-journal/4212087/jaime-dantas-PYS7Y4Gwrr0-unsplash.jpg_1708333292039/1098x1098",
+      "rate": 8,
+      "userId": 2
+    },
+    {
+      "id": 102,
+      "title": "Тестовый пост Playwright",
+      "body": "Это тестовое описание поста созданного через Playwright",
+      "url": "https://example.com/image.jpg",
+      "rate": 8,
+      "userId": 1
+    },
+    {
+      "id": 103,
+      "title": "Озеро Байкал",
+      "body": "Байкал в Сибири — самое глубокое из пресноводных озёр в мире и восьмое среди самых крупных. Оно ежегодно расширяется на 2 см, поэтому учёные считают, что в будущем Байкал станет морем. ",
+      "url": "https://avatars.mds.yandex.net/get-vertis-journal/4469561/daria-gordova-T-ZTCAdF70E-unsplash.jpg_1708333331136/1098x1098",
+      "rate": 10,
+      "userId": 2
+    },
+    {
+      "id": 104,
+      "title": "Тестовый пост Playwright",
+      "body": "Это тестовое описание поста созданного через Playwright",
+      "url": "https://example.com/image.jpg",
+      "rate": 8,
+      "userId": 1
+    },
+    {
+      "id": 105,
+      "title": "Тестовый пост Playwright",
+      "body": "Это тестовое описание поста созданного через Playwright",
+      "url": "https://example.com/image.jpg",
+      "rate": 8,
+      "userId": 1
+    },
+    {
+      "id": 106,
+      "title": "Тестовый пост Playwright",
+      "body": "Это тестовое описание поста созданного через Playwright",
+      "url": "https://example.com/image.jpg",
+      "rate": 8,
+      "userId": 1
+    },
+    {
+      "id": 107,
+      "title": "Тестовый пост Playwright",
+      "body": "Это тестовое описание поста созданного через Playwright",
+      "url": "https://example.com/image.jpg",
+      "rate": 8,
+      "userId": 1
+    },
+    {
+      "id": 108,
+      "title": "Тестовый пост Playwright",
+      "body": "Это тестовое описание поста созданного через Playwright",
+      "url": "https://example.com/image.jpg",
+      "rate": 8,
+      "userId": 1
+    },
+    {
+      "id": 109,
+      "title": "Тестовый пост Playwright",
+      "body": "Это тестовое описание поста созданного через Playwright",
+      "url": "https://example.com/image.jpg",
+      "rate": 8,
+      "userId": 1
+    }
+  ]
+}

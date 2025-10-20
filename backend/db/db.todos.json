@@ -1,0 +1,15 @@
+{
+    "todos": [
+      {
+        "id": 1,
+        "task": "Сделать покупки",
+        "completed": false
+      },
+      {
+        "id": 2,
+        "task": "Прочитать книгу",
+        "completed": true
+      }
+    ]
+  }
+  
