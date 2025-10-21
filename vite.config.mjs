@@ -10,6 +10,9 @@ export default defineConfig({
         setupFiles: ["./src/test/setup.ts"],
         include: ['src/**/*.{test,spec}.{js,ts,jsx,tsx}'],
         testTimeout: 10000,
+        build: {
+            outDir: 'dist'
+        },
         thresholds: {
             global: {
                 branches: 70,
