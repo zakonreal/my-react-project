@@ -13,6 +13,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 const app = express();
+const isProduction = process.env.NODE_ENV === 'production';
 const PORT = process.env.PORT || 5000;
 const JWT_SECRET = process.env.JWT_SECRET || 'your-secret-key';
 
@@ -24,7 +25,9 @@ const USERS_FILE = path.join(__dirname, './db/db.users.json');
 
 // Middleware
 app.use(cors({
-    origin: 'http://localhost:5173',
+    origin: isProduction
+        ? ['https://your-app.up.railway.app', 'https://your-app.onrender.com']
+        : 'http://localhost:5173',
     credentials: true
 }));
 app.use(express.json());
@@ -32,6 +35,18 @@ app.use(cookieParser());
 
 // Статика (если нужно отдавать фронт)
 app.use(express.static(path.join(__dirname, 'my-blog/build')));
+
+// Обслуживание статики фронтенда
+app.use(express.static(path.join(__dirname, '../dist')));
+
+// Все остальные запросы на фронтенд
+app.get('*', (req, res) => {
+    res.sendFile(path.join(__dirname, '../dist/index.html'));
+});
+
+app.listen(PORT, '0.0.0.0', () => {
+    console.log(`🚀 Server running on port ${PORT}`);
+});
 
 // Утилита: чтение JSON
 async function readJSON(filePath) {
