@@ -1,7 +1,7 @@
 {
-  "name": "react-auth",
+  "name": "react",
   "version": "1.0.0",
-  "description": "Задание со звездочкой * - сложное, если сделано, дополнительный бал.",
+  "description": "Задание ",
   "main": "index.js",
   "type": "module",
   "scripts": {
