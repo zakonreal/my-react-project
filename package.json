@@ -21,7 +21,9 @@
     "cypress:run:chrome": "cypress run --browser chrome",
     "cypress:run:firefox": "cypress run --browser firefox",
     "playwright:test": "npx playwright test",
-    "playwright:report": "npx playwright show-report"
+    "playwright:report": "npx playwright show-report",
+    "install:all": "npm install && cd backend && npm install",
+    "render-build": "npm run build && cd backend && npm install"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
