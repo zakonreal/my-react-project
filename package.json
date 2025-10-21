@@ -8,7 +8,6 @@
     "start": "npm run start:backend & npm run start:front",
     "start:front": "vite",
     "start:backend": "node backend/server.js",
-    "start:backend1": "node backend/server1.js",
     "dev": "vite",
     "build": "vite build",
     "test": "vitest",
